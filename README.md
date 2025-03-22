@@ -1,1 +1,1 @@
-# profiles REST API
+# User Profiles API REST
